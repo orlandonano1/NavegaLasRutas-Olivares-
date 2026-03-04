@@ -34,3 +34,12 @@ import CartItem from "../CartItem/CartItem";
 }
 
 export default Cart
+
+
+
+
+
+
+
+
+

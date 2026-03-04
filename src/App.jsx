@@ -9,7 +9,7 @@ import {BrowserRouter,Route,Routes } from 'react-router-dom';
 import { CarritoProvider } from './context/CarritoContext'
 import Cart from './Componentes/Cart/Cart';
 import Checkout from './Componentes/Checkout/Checkout';
-import "Bootstrap/dist/css/Bootstrap.min.css"
+
 import { ToastContainer } from 'react-toastify';
 
 const App = () => {
